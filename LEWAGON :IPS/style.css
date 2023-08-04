@@ -1,0 +1,20 @@
+/* Write some CSS below */
+h1{
+	color:gray;
+}
+
+body{
+	font-family: Chivo, sans-serif;
+}
+
+button{
+	color: gray;
+}
+
+.banner {
+	background-image: url("images/ips_erika.png");
+	background-size: cover;
+	background-position: center;
+	align-content: center;
+	text-align: center;
+}
